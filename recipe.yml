@@ -1,0 +1,9 @@
+name: 'ZC Accordion Paragraph'
+description: 'Installs Zoocha Accordion Paragraph Component'
+type: 'Feature'
+recipes:
+  - zoocha-cke5-recipe
+  - zr-paragraph-bundle
+
+config:
+  strict: false
