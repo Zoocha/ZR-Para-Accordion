@@ -2,7 +2,7 @@ name: 'ZC Accordion Paragraph'
 description: 'Installs Zoocha Accordion Paragraph Component'
 type: 'Feature'
 recipes:
-  - cke5-recipe
+  - zr-cke5-recipe
   - zr-paragraph-bundle
 
 config:
