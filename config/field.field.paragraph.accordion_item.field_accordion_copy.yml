@@ -8,6 +8,8 @@ dependencies:
     - paragraphs.paragraphs_type.accordion_item
   module:
     - text
+_core:
+  default_config_hash: SypY0xQYMjzElg1Y1qlauxPORRCATRr5cqmRddsgCBo
 id: paragraph.accordion_item.field_accordion_copy
 field_name: field_accordion_copy
 entity_type: paragraph

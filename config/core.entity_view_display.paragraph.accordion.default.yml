@@ -7,6 +7,8 @@ dependencies:
     - paragraphs.paragraphs_type.accordion
   module:
     - entity_reference_revisions
+_core:
+  default_config_hash: '-q74WBwG5KdDmUBOL57DzcRSQs3dLL5wTIEsz5vCDTU'
 id: paragraph.accordion.default
 targetEntityType: paragraph
 bundle: accordion
@@ -19,6 +21,6 @@ content:
       view_mode: default
       link: ''
     third_party_settings: {  }
-    weight: 0
+    weight: 1
     region: content
 hidden: {  }
